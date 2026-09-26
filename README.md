@@ -1,4 +1,3 @@
-# CinarMiser.github.io
 
 <!doctype html>
 <html lang="tr">
